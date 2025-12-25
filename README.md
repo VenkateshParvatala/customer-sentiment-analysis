@@ -1,7 +1,7 @@
 # Customer-sentiment-analysis
 Customer Sentiment Analysis using Logistic Regression and Flask
 
-![OUTPUT](Output.png)
+![OUTPUT](OUTPUT(2).png)
 
 ## 📌 Overview
 This project is an end-to-end Customer Sentiment Analysis system
